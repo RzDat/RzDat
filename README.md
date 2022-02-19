@@ -1,5 +1,4 @@
 - 👋 Hi, I’m RzDat
-- 👀 I’m interested in creating my own games
 - 🌱 I’m currently learning SQL and Python
 
 <!---
